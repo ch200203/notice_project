@@ -45,7 +45,7 @@ div.right {
 <body>
 	<div>
 		<p>게시판 테스트용 버튼</p>
-		<span id="click_board">샘플게시판으로 이동</span>	
+		<span id="click_board">샘플게시판으로 이동!</span>	
 	</div>
 
 	<div>
